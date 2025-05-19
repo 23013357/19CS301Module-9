@@ -243,7 +243,7 @@ if (not search(A,x)):
 ```
 ### Output:
 
-![image](https://github.com/user-attachments/assets/0fb8f81b-ab07-4b3e-b273-035a0f38566d)
+![image](https://github.com/23013357/19CS301Module-9/blob/main/modul%209.png)
 
 ### Result: Thus, the given program is implemented and executed successfully.
  
