@@ -1,5 +1,5 @@
 # 19CS301Module-9
-### EX: 9.1                                            MATRIX OPERATIONS
+### EX: 9.a MATRIX OPERATIONS
 ### Aim: 
 To Write a Python Program to subtract two matrices by reading the matrix from the user.
 ### Algorithm:
@@ -49,7 +49,7 @@ print(C)
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-### EX: 9.2 LIST COMPREHENSION
+### EX: 9.b LIST COMPREHENSION
 ### Aim: 
 To Write a Python class program to store all odd numbers between 500 and 600 in a reverse order  using list comprehension.
 ### Algorithm:
@@ -89,7 +89,7 @@ print(Series.Ap_generate())
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-### EX: 9.3 ADVANCED LIST PROCESSING
+### EX: 9.c ADVANCED LIST PROCESSING
 ### Aim: 
 To Write a Python program to Find the transpose of a matrix using list Comprehension.
 
@@ -133,7 +133,7 @@ T = [[r[i]for r in matrix]for i in range(len(matrix[0]))]
  
 
 
-### EX: 9.4       TOEPLITZ MATRIX
+### EX: 9.d TOEPLITZ MATRIX
 ### Aim: 
 To Write a Python Program to check whether the given matrix is Toeplitz Matrix.
 
@@ -192,7 +192,7 @@ if isThoeplitz(A):
 ### Result: Thus, the given program is implemented and executed successfully.
 
 
- ### EX: 9.5  search an element in a 2D array
+ ### EX: 9.e  search an element in a 2D array
 ### Aim: 
 write a python Program to search an element in a 2D array
 
